@@ -8,5 +8,5 @@ I'm just a beginner at programming, however i'd dare saying i'm a quite passiona
 - 🤔 I’m looking for help with finding ways of improving the way i currently code
 - 💬 Talk to me about anything you like. I enjoy listening to things people are passionate about
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I really like the idea of cultivating the mind and the body, so i try to put it in practice everyday
+- ⚡ Fun fact: I really like the idea of cultivating the mind and the body, so i try putting it in practice everyday
 -->
