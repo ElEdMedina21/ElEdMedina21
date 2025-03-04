@@ -1,12 +1,18 @@
-### Hello World! 👋 my name's Elias 
-I'm a software engineering senior student who loves a good challenge. Whether it is building an ambitious project, finding a complex solution or even understanding a new technology, you can always count me in!
+# 🐕 Elias Medina
+I'm a software engineering senior student who loves a good challenge. Whether it is building an ambitious project, finding a complex solution or implementing a new technology, you can always count me in! I enjoy building my own interpretation of popular games in a browser format and, of course, solving some LeetCode problems. My current goal is to end the year with at least 10 problems solved per month. 
 
-I'm just a beginner at programming, however i'd dare saying i'm a quite passionate person that's excited and willing to improve 🤙 I like learning new and interesting things, meeting new people, making new friends and i absolutely love playing videogames 🎮
+---
 
-- 🌱 I’m currently learning c# and a little bit of python
-- 👯 I’m looking to collaborate on anything i feel like i can be useful 
-- 🤔 I’m looking for help with finding ways of improving the way i currently code
-- 💬 Talk to me about anything you like. I enjoy listening to things people are passionate about
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I really like the idea of cultivating the mind and the body, so i try putting it in practice everyday
--->
+### 🖥️ Languages and tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
