@@ -1,4 +1,5 @@
 ### Hello World! 👋 my name's Elias 
+I'm a software engineering senior student who loves a good challenge. Whether it is building an ambitious project, finding a complex solution or even understanding a new technology, you can always count me in!
 
 I'm just a beginner at programming, however i'd dare saying i'm a quite passionate person that's excited and willing to improve 🤙 I like learning new and interesting things, meeting new people, making new friends and i absolutely love playing videogames 🎮
 
